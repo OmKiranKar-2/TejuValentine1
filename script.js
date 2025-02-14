@@ -54,16 +54,19 @@
 })();
 */
 const messages = [
-    "Are you sure?",
-    "Really sure??",
-    "Are you positive?",
-    "Pookie please...",
-    "Just think about it!",
-    "If you say no, I will be really sad...",
-    "I will be very sad...",
-    "I will be very very very sad...",
-    "Ok fine, I will stop asking...",
-    "Just kidding, say yes please! ❤️"
+    "Are you sure pookie?🥺",
+    "Really sure cutie?🥺",
+    "Are you positive pookie baby?🥺",
+    "Pookie cuite please...🥺",
+    "Just think about it baby girl!🥺",
+    "If you say no, I will be really sad baby...🥺",
+    "I will be very sad baby...🥺",
+    "I will be very very very sad baby...🥺",
+    "Ok fine, I will stop asking...😤",
+    "I can't take this anymore, please say yess baby love🥺",
+    "Don't do this to me please!🥺",
+    "Don't hurt me baby!🥺",
+    "Are you sure you want to hurt me pookie?🥺"
 ];
 
 let messageIndex = 0;
